@@ -1,29 +1,29 @@
 <skills>
-	<1>Basic theory</1>
-	<2>Client-server architecture</2>
-	<3>HTTP method of request to the server</3>
-	<4>HTTP server response codes</4>
-	<5>Structures of HTTP requests and responses</5>
-	<6>What is JSON, XML. Their structure</6>
-	<7>API testing via Postman JS, API autotests</7>
-	<8>Removing and reading logs from an external server</8>
-	<9>Sniffing http web traffic through Charles and Fiddler</9>
-	<10>Dev Tools of web browsers (Google Chrome, FireFox)</10>
-	<11>VPN. How it works, why you need it, how to use it, tool options</11>
-	<12>Mobile testing</12>
-	<13>Feature of iOS, Android, guidelines</13>
-	<14>Build iOS apps on Xcode</14>
-	<15>Build Android apps on Android Studio</15>
-	<16>ADB (android device management)</16>
-	<17>Setting up proxy and vpn on iOS and Android</18>
-	<18>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</18>
-	<19>Command line (terminal) (copying, creating, viewing, moving files on servers without a graphical interface)</19>
-	<20>Basics of bash scripting, automation of routine tasks on the server</20>
-	<21>Access to remote servers</21>
-	<22>Basics of SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</22>
-	<23>Postgres database (installation, configuration and use)</23>
-	<24>Non-relational database Redis (installation, configuration and use)</24>
-	<25>Load testing in Jmeter</25>
-	<26>Scrum development methodology</26>
-	<27>Python. (Learning the basics. Building a client-server application)</27>
+	<One>Basic theory</One>
+	<Two>Client-server architecture</Two>
+	<Three>HTTP method of request to the server</Three>
+	<Four>HTTP server response codes</Four>
+	<Five>Structures of HTTP requests and responses</Five>
+	<Six>What is JSON, XML. Their structure</Six>
+	<Seven>API testing via Postman JS, API autotests</Seven>
+	<Eight>Removing and reading logs from an external server</Eight>
+	<Nine>Sniffing http web traffic through Charles and Fiddler</Nine>
+	<Ten>Dev Tools of web browsers (Google Chrome, FireFox)</Ten>
+	<Eleven>VPN. How it works, why you need it, how to use it, tool options</Eleven>
+	<Twelve>Mobile testing</Twelve>
+	<Thirteen>Feature of iOS, Android, guidelines</Thirteen>
+	<Fourteen>Build iOS apps on Xcode</Fourteen>
+	<Fifteen>Build Android apps on Android Studio</Fifteen>
+	<Sixteen>ADB (android device management)</Sixteen>
+	<Seventeen>Setting up proxy and vpn on iOS and Android</Seventeen>
+	<Eighteen>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</Eighteen>
+	<Nineteen>Command line (terminal) (copying, creating, viewing, moving files on servers without a graphical interface)</Nineteen>
+	<Twenty>Basics of bash scripting, automation of routine tasks on the server</Twenty>
+	<TwentyOne>Access to remote servers</TwentyOne>
+	<TwentyTwo>Basics of SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</TwentyTwo>
+	<TwentyThree>Postgres database (installation, configuration and use)</TwentyThree>
+	<TwentyFour>Non-relational database Redis (installation, configuration and use)</TwentyFour>
+	<TwentyFive>Load testing in Jmeter</TwentyFive>
+	<TwentySix>Scrum development methodology</TwentySix>
+	<TwentySeven>Python. (Learning the basics. Building a client-server application)</TwentySeven>
 </skills>
