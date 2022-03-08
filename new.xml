@@ -1,0 +1,11 @@
+<aboutme>
+	<lastName>Redko</lastName>
+	<firstName>Tima</firstName>
+	<middleName>Dmitrievich</middleName>
+	<age>24</age>
+	<pets>
+		<cat>0</cat>
+		<dog>0</dog>
+	</pets>
+	<salary>300k/nanosec</salary>
+</aboutme>
