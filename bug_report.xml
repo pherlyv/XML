@@ -1,1 +1,13 @@
-
+<BugReport>
+  <Heading>An error in the word Правила ЫРГИ</Heading>
+    <StepsToReproduce>
+      <1>Login to the server using Login: Test, Password: Test</1>
+      <2>Click button Соглашение</2>
+      <3>Find button 'Правила ЫРГИ'</3>
+    </StepsToReproduce>
+  <ExpectedResult>The text will be correct 'Правила ИГРЫ'</ExpectedResult>
+  <ActualResult>The text with an error 'Правила ЫРГИ'</ActualResult>
+  <ReproducedOn>Win 10</ReproducedOn>
+  <Severity>Minor</Severity>
+  <Priority>Low</Priority>
+</BugReport>
