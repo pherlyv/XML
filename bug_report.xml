@@ -1,5 +1,5 @@
 <BugReport>
-		<Heading>An error in the word Правила ЫРГИ</Heading>
+	<Heading>An error in the word Правила ЫРГИ</Heading>
         <StepsToReproduce>
         <One>Login to the server using Login: Test, Password: Test</One>
         <Two>Click button Соглашение</Two>
